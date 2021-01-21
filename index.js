@@ -48,7 +48,9 @@ export const burger = {
   name: "Burger", 
   price: 18, 
   category: "Lunch", 
+  discount: function(string){
   /*Your code here*/
+  }
 }
 
 
